@@ -1,8 +1,3 @@
-Tài liệu liên quan:
-
-https://dangkyhosting.com/huong-dan-cai-dat-whm-va-cpanel-tren-centos-7.html
-
-https://forums.cpanel.net/threads/your-system-is-missing-the-file-etc-fstab.621043/ 
 
 ## Yêu cầu cài đặt
 
@@ -27,3 +22,12 @@ Yêu cầu cài đặt cPanel
 - Sau khi cài đặt vào địa chỉ ip (domain) của server để kiểm tra
 
 `https: // your-server-ip:2087`
+
+## Tài liệu liên quan:
+
+https://dangkyhosting.com/huong-dan-cai-dat-whm-va-cpanel-tren-centos-7.html
+
+https://www.tecmint.com/install-cpanel-whm-in-centos-7/
+
+
+https://forums.cpanel.net/threads/your-system-is-missing-the-file-etc-fstab.621043/ 

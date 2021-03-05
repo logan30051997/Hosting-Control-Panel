@@ -8,3 +8,4 @@ https://www.semtek.com.vn/plesk/
 
 https://www.tecmint.com/install-centos-web-panel-on-centos-7/
 
+https://docs.blesta.com/display/user/Installing+Blesta

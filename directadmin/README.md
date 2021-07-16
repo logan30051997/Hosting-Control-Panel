@@ -63,3 +63,15 @@ wget http://www.directadmin.com/setup.sh && chmod 755 setup.sh
 # Tài liệu liên quan
 
 https://vdodata.vn/huong-dan-cai-dat-direct-admin/
+
+
+# Crack License key DirectAdmin
+
+- Tải về 2 file ở thư mục trên là directadmin2021_mod2 và license.key
+
+- Move 2 file directadmin.conf và license.key trong /usr/local/directadmin/conf/ thành .bak
+
+- Copy 2 file directadmin2021_mod2 và license.key mới vào directadmin2021_mod2 và license.key và đổi tên directadmin2021_mod2 thành directadmin2021_mod2
+
+- Reload lại directadmin để ăn license mới
+- 

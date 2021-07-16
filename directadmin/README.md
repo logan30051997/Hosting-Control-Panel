@@ -58,7 +58,7 @@ wget http://www.directadmin.com/setup.sh && chmod 755 setup.sh
 
 - Đợi 15-30p tùy từng máy để tiến hành cài đặt
 
-- Cài đặt xong sẽ hiện ra link đăng nhập DirectAdmin:2222 và tài khoản 
+- Cài đặt xong sẽ hiện ra link đăng nhập DirectAdmin IP:2222 và tài khoản 
 
 # Tài liệu liên quan
 
@@ -71,7 +71,6 @@ https://vdodata.vn/huong-dan-cai-dat-direct-admin/
 
 - Move 2 file directadmin.conf và license.key trong /usr/local/directadmin/conf/ thành .bak
 
-- Copy 2 file directadmin2021_mod2 và license.key mới vào directadmin2021_mod2 và license.key và đổi tên directadmin2021_mod2 thành directadmin2021_mod2
+- Copy 2 file directadmin2021_mod2 và license.key mới vào /usr/local/directadmin/conf/ và đổi tên directadmin2021_mod2 thành directadmin2021_mod2
 
 - Reload lại directadmin để ăn license mới
-- 

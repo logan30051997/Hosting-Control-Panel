@@ -39,3 +39,27 @@ autoconf automake libtool which patch mailx bzip2-devel lsof glibc-headers kerne
 psmisc net-tools systemd-devel libdb-devel perl-DBI perl-Perl4-CoreLibs perl-libwww-perl xfsprogs rsyslog logrotate \
 crontabs file kernel-headers ipset
 ```
+## Cài đặt
+
+- Tải bản cài tự động DirectAdmin
+
+```
+wget http://www.directadmin.com/setup.sh && chmod 755 setup.sh 
+
+./setup.sh
+
+```
+
+- Đến trang yêu cầu nhập ID và License key
+
+Đăng ký 1 tài khoản trên https://www.directadmin.com/ và tạo 1 key trail
+
+- Đến phần Option lựa chọn các gói cài đi kèm, chọn những gói mà bạn mong muốn và Version thích hợp
+
+- Đợi 15-30p tùy từng máy để tiến hành cài đặt
+
+- Cài đặt xong sẽ hiện ra link đăng nhập DirectAdmin:2222 và tài khoản 
+
+# Tài liệu liên quan
+
+https://vdodata.vn/huong-dan-cai-dat-direct-admin/

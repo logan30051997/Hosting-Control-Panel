@@ -64,6 +64,8 @@ wget http://www.directadmin.com/setup.sh && chmod 755 setup.sh
 
 https://vdodata.vn/huong-dan-cai-dat-direct-admin/
 
+https://huongdan.azdigi.com/cai-dat-nhieu-phien-ban-php-directadmin-how-to/
+
 
 # Crack License key DirectAdmin
 
